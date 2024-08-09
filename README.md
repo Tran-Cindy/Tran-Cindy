@@ -1,3 +1,3 @@
 ## About Me
 
-![Codewars](https://github.r2v.ch/codewars?user=Tran-Cindy)
+![Codewars](https://github.r2v.ch/codewars?user=Tran-Cindy&theme=gradient)
